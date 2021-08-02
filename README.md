@@ -1,0 +1,1 @@
+# modify-addons-without-restarting-blender-and-do-a-multiaddons-addon
